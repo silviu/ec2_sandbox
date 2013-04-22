@@ -3,7 +3,7 @@
 
   <groupId>com.test.simple_project</groupId>
   <artifactId>simple_project</artifactId>
-  <version>1.8</version>
+  <version>1.9-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>simple_project</name>
