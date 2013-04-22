@@ -31,17 +31,17 @@ public class AppTest
     /**
      * Rigourous Test :-)
      */
-    public void testApp()
+    public void testDummyZero()
     {
         assertTrue( true );
     }
     
-    public void dotheTESTiwant() 
+    public void testDummyOne() 
     {
     	assertTrue(true);
     }
     
-    public void someOthertest()
+    public void testDummyTwo()
     {
     	assertTrue(true);
     }
