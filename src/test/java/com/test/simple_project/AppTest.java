@@ -35,4 +35,14 @@ public class AppTest
     {
         assertTrue( true );
     }
+    
+    public void dotheTESTiwant() 
+    {
+    	assertTrue(true);
+    }
+    
+    public void someOthertest()
+    {
+    	assertTrue(true);
+    }
 }
