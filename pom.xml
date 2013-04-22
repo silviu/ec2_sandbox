@@ -20,10 +20,6 @@
     <tag>HEAD</tag>
   </scm>
 
-  <modules>
-      <module>App</module>
-  </modules>
-
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
