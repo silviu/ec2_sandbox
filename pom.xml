@@ -14,9 +14,9 @@
   </properties>
 
   <scm>
-    <connection>scm:git:git@git.corp.adobe.com:grijincu/ec2_sandbox.git</connection>
-    <developerConnection>scm:git:git@git.corp.adobe.com:grijincu/ec2_sandbox.git</developerConnection>
-    <url>scm:git:git@git.corp.adobe.com:grijincu/ec2_sandbox.git</url>
+    <connection>scm:git:git@github.com:silviu/ec2_sandbox.git</connection>
+    <developerConnection>scm:git:git@github.com:silviu/ec2_sandbox.git</developerConnection>
+    <url>scm:git:git@github.com:silviu/ec2_sandbox.git</url>
     <tag>HEAD</tag>
   </scm>
 
